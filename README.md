@@ -27,7 +27,7 @@ Hospital administrators and clinical directors often evaluate departmental perfo
 
 ## Technical Stack
 * **Domain & Analytical Framework:** Healthcare Operations Analytics, Donabedian Quality Model, Clinical Risk Stratification
-* **Visualization & Web Architecture:** HTML5, CSS3, JavaScript, Chart.js (v4.4.1)
+* **Visualization & Web Architecture:** HTML5, chart.js (v4.4.1)
 * **Hosting & Version Control:** GitHub & GitHub Pages
 
 ---
